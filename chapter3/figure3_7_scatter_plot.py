@@ -18,6 +18,6 @@ plt.title('Daily Minutes vx. Number of Friends')
 
 #add legend to the 'x' axis
 plt.xlabel('Number of Friends')
-plt.xlabel('Daily Minutes Spent on Site')
+plt.ylabel('Daily Minutes Spent on Site')
 
 plt.show()
